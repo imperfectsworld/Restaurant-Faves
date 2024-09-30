@@ -1,0 +1,6 @@
+@Resturant_Faves_Api_Lab_HostAddress = http://localhost:5182
+
+GET {{Resturant_Faves_Api_Lab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
